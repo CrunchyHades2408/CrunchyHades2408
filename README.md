@@ -17,7 +17,7 @@
 
 
 ### 📊 GitHub Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=CrunchyHades2408&theme=tokyonight&hide_border=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrunchyHades2408&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### 📫 Let's Connect  
